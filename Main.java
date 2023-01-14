@@ -10,7 +10,7 @@ interface  ILinkedList {
         class Node {
             int data;
             Node next;
-           
+           //Constructor
             Node(int data){
                 this.data = data;
             }
