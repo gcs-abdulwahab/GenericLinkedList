@@ -1,6 +1,3 @@
-
-
-
 interface  ILinkedList {
     
             boolean isEmpty();
